@@ -1,12 +1,5 @@
-/*
- * shader.h
- *
- *  Created on: Jun 15, 2014
- *      Author: satriaprayoga
- */
-
-#ifndef SHADER_H_
-#define SHADER_H_
+#ifndef SHADER_H
+#define SHADER_H
 
 #include <iostream>
 #include <string>
@@ -29,4 +22,5 @@ private:
 	void release();
 };
 
-#endif /* SHADER_H_ */
+
+#endif // SHADER_H
